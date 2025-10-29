@@ -13,30 +13,31 @@
 
 - Each team should create a branch for their assigned chapter (e.g., `chapter-3`).
 - All work for your chapter will be done in this branch.
+- Work together to create tasks that can be assigned to each team member using a branch from chapter-3 (see 3). 
 
 ---
 
 ### 3. Personal Contribution Branches
 
-- Each team member creates their own branch from the team chapter branch (e.g., `chapter-3-alex`).
+- Each team member creates their own branch from the team chapter branch (e.g., `chapter-3-add-monster-image`).
 - Use your branch to add your AI-generated text and/or images for the chapter.
 
 ---
 
 ### 4. Submit and Sync Your Work
 
-- When ready, merge your personal branch into your team's chapter branch.  
-  (This can be done via a Pull Request or merge, depending on your workflow.)
-- Please delete your personal branch after it’s merged.
+- When ready create a pull request to merge your personal branch into your team's chapter branch.  
+
+- Please delete your personal branch after the pull request is merged.
 
 ---
 
 ### 5. Finalize and Submit the Chapter
 
-- Once all team contributions are merged into the team chapter branch and the chapter is complete:
-    - Open a Pull Request from your team’s chapter branch to the main branch of the repository.
-    - Tag your team members and a mentor for review.
-    - Address any feedback, then merge when approved!
+Once all team contributions are merged into the chapter branch and the chapter is complete:
+- Open a Pull Request from your team’s chapter branch to the main branch of the repository.
+- Tag your team members and a mentor for review.
+- Address any feedback, then merge when approved!
 
 ---
 
