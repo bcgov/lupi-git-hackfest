@@ -2,35 +2,29 @@
 
 ## Step-by-Step Instructions
 
-### 1. Get Started
+## The Beginning -- User instructions -- Reveal the AI prompt
+- [ ] ``` git clone https://github.com/bcgov/lupi-git-hackfest```
 
-- Access the GitHub repository for the hackathon.
-- Choose your preferred workflow: you can use the Git command line, GitHub Desktop, or Visual Studio Code (with the GitHub integration).
+## The Demo -- Demonstrate branch creation, edits, commits, tasking features
+- [ ] form up teams
+- [ ] create branch to add the chapter or book prompt use a syntax like **chapter-1**
+- [ ] switch to branch and as a team make a basic outline for the features your team will develop
+- [ ] if you make changes commit, then
+- [ ] push changes
 
----
+## The User -- Practicing branch creation, edits, commits
+- [ ] as individuals create a new 'feature branch' based off your chapter branch. **chapter-1-add-introduction**
+- [ ] use the story [prompt](./prompts.md) info to help keep your creative content aligned with the other chapters. 
+- [ ] complete your new feature using regular commits eg. 'add image of introductory scene', 'create opening paragraph'
+	*** IMPORTANT --- use the prompts provided to keep the content of the book conected, but be creative in filling out the rest. ***
+- [ ] ensure you have committed all your changes, then make the final push to sync your content with the github repo
+- [ ] open a pull request to sync your feature with your chapter **chapter-1 <--- chapter-1-add-introduction**
+- [ ] Tag your team members for review, Address any feedback while your pull request is open (edit,commit,push)
 
-### 2. Chapter Branches
-
-- Each team should create a branch for their assigned chapter (e.g., `chapter-3`).
-- All work for your chapter will be done in this branch.
-- Work together to create tasks that can be assigned to each team member using a branch from chapter-3 (see 3). 
-
----
-
-### 3. Personal Contribution Branches
-
-- Each team member creates their own branch from the team chapter branch (e.g., `chapter-3-add-monster-image`).
-- Use your branch to add your AI-generated text and/or images for the chapter.
-
----
-
-### 4. Submit and Sync Your Work
-
-- When ready create a pull request to merge your personal branch into your team's chapter branch.  
-
-- Please delete your personal branch after the pull request is merged.
-
----
+##  The Final Boss -- Chapter pull requests
+- [ ] When all the features are complete someone from the team make a pull request to merge the chapter to the main branch
+- [ ] switch to main branch
+- [ ] ``` git pull ``` or some gui to sync your local with github
 
 ### 5. Finalize and Submit the Chapter
 
