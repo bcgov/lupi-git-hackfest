@@ -56,4 +56,4 @@ Motivations:
 ---
 Key point to consider
   - The ESRI Portal is in name only. It does not need to be the same as the GIS product created by ESRI.
-  - Write in the style of Clive Cussler's Dirk Pitt
+  - Write in the style of Douglas Adams Hitchhikers Guide to
