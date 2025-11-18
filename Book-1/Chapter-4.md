@@ -1,6 +1,6 @@
 # Chapter 4 – The Last Stand of Green Chipchenko
 
-![Alt text](image-url "GIS Hero")
+![Alt text](Chapter-4-image.png "GIS Hero")
 
 The final battle began with a crash—specifically, his laptop’s operating system crashing in fear.
 
