@@ -24,3 +24,5 @@ With a last surge of effort and a very undignified grunt, he shoved the correct 
 The Portal collapsed like a poorly maintained geodatabase.
 
 Silence returned.
+
+![Green Chipchenko, map aloft, the Portal defeated](Chapter-4-end-image.svg "Green's Victory — Silence Returned")
