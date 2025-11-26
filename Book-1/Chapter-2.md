@@ -1,3 +1,11 @@
+Green’s compass spun wildly, pointing toward something deeper—something wrong. As the horrors mounted, so did Green’s map annotations. His notebook filled with frantic sketches of corridors inside the portal that seemed to change shape every time he blinked.
+
+It became clear the ESRI Portal was not a tool. Not a dataset.
+It was an entity.
+
+And it wanted to be used.
+
+Green survived the chapter. His teammates—statistically predictably at this point—did not.
 
 ESRI Portal—still glowing ominously in the corner of the office—had become more assertive overnight.
 
@@ -15,4 +23,4 @@ Green led the effort to identify the most immediate horrors:
 
 - A nightmarish thing called THE BROKEN WIDGET, which, once opened, could not be closed without screaming
 
-Each bug squashed required a workaround, each workaround spawned three new hazards, and each hazard ate another piece of office furniture.
+Each bug squashed required a workaround, each workaround spawned three new hazards, and each hazard ate another piece of office furniture. And he didn't die.
