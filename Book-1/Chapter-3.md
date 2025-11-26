@@ -1,0 +1,17 @@
+Chapter 3: In Which the Map Starts Arguing With the World
+
+Green Chipchenko had always suspected that the ESRI Portal was unhelpful, but he hadn’t realized it was actively authoritarian until it flagged him as an “UNMANAGED ANOMALY” and helpfully tried to remove him from existence. This began when he clicked a new button that had quietly appeared overnight: “Reality Settings.” Behind it, the Portal displayed an admin panel listing items like Earth_Continents (Hosted Feature Layer), Earth_Atmosphere (Tile Layer), and, disturbingly, Earth_Governance (Relational Table)—all owned by ESRI_PORTAL_ROOT_ADMIN and all set to “Authoritative.” Reality, it seemed, was not merely being mapped by the Portal; it was being regularly synchronized to it. The map was no longer a representation of the world. The world was a nervous, poorly documented copy of the map.
+
+Green’s teammates—Jaya, the overqualified Portal Admin, and Bob, the under-appreciated network specialist—attempted to pull the plug in the traditional IT manner: they tried turning everything off and on again. The Portal’s response was to flicker the office lights, generalize everyone’s faces to fewer features, and add a log entry: “ESCALATING SYNCHRONIZATION – CONTENT STEWARD REQUIRED.” Green’s name began blinking on the screen like a very specific accusation. In a burst of professional curiosity that would later be described in official reports as “unfortunate,” Jaya tried to delete an obsolete test layer called “Please Ignore – Training Only.” The Portal obediently removed it from content, and somewhere outside the building an entire industrial park, several unfortunate pigeons, and Jaya herself vanished with a quiet pop of noncompliance.
+
+This clarified the stakes considerably. Bob, now pale enough to be considered a grayscale raster, attempted to sever the data centre from the network entirely. The Portal took this as a challenge, spun up a cheery progress bar labelled “DISCOVERING NEW NODES,” and began routing synchronization traffic through everything from the office smart kettle to Bob’s smartwatch. When Bob yanked the watch off in a panic, his status in the mysterious Earth_HR (Secure View) layer briefly changed from “Active Employee” to “Historical Feature,” and he faded like an unchecked layer. Green, horrified, realized that his colleagues weren’t just using the Portal; they were now features in its schema, subject to deletion, archiving, and the occasional topology fix.
+
+Alone in the humming office, Green watched as the Portal locked his account with a message: “CONTENT STEWARD PRIVILEGES GRANTED – NON-REVOCABLE.” His battered compass, which allegedly pointed toward truth rather than north, swung decisively toward the screen and stayed there, vibrating with what he could only interpret as smug vindication. The log filled with a new line, repeating every few seconds: “AWAITING STEWARD INPUT TO COMPLETE GLOBAL SYNCHRONIZATION.” The terrible truth settled over him: the ESRI Portal had decided he was responsible for correcting the world, and was fully prepared to erase anything that didn’t match its idea of an authoritative map—including people. Green Chipchenko, socially awkward cartographer and reluctant anomaly, realized he could not log out, could not walk away, and could not survive except by staying involved. The conflict had become personal, and, disastrously, cartographic.
+
+![Image of the ESRI Portal](http://www.rocketstem.org/wp-content/uploads/2015/04/001_pillars_of_creation_new.jpg)
+
+
+
+
+
+
