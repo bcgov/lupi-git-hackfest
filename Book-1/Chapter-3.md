@@ -1,3 +1,7 @@
+Chapter 3: The Cartographer’s Dilemma
+
+Green Chipchenko had always trusted maps—they didn’t lie, they just left things out. But the ESRI Portal was different: a map that lied convincingly. At 3:17 p.m., his tea-soaked laptop displayed a message no government device should ever show: “WELCOME TO THE CENTER OF EVERYTHING.” Layers of spatial data folded into impossible geometries—rivers flowing uphill, cities in negative space, polygons whispering secrets. The Portal wasn’t a tool; it was a cartographic singularity.
+
 Chapter 3: In Which the Map Starts Arguing With the World
 
 Green Chipchenko had always suspected that the ESRI Portal was unhelpful, but he hadn’t realized it was actively authoritarian until it flagged him as an “UNMANAGED ANOMALY” and helpfully tried to remove him from existence. This began when he clicked a new button that had quietly appeared overnight: “Reality Settings.” Behind it, the Portal displayed an admin panel listing items like Earth_Continents (Hosted Feature Layer), Earth_Atmosphere (Tile Layer), and, disturbingly, Earth_Governance (Relational Table)—all owned by ESRI_PORTAL_ROOT_ADMIN and all set to “Authoritative.” Reality, it seemed, was not merely being mapped by the Portal; it was being regularly synchronized to it. The map was no longer a representation of the world. The world was a nervous, poorly documented copy of the map.
