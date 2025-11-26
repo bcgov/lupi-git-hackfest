@@ -23,4 +23,4 @@ Green led the effort to identify the most immediate horrors:
 
 - A nightmarish thing called THE BROKEN WIDGET, which, once opened, could not be closed without screaming
 
-Each bug squashed required a workaround, each workaround spawned three new hazards, and each hazard ate another piece of office furniture.
+Each bug squashed required a workaround, each workaround spawned three new hazards, and each hazard ate another piece of office furniture. And he didn't die.
